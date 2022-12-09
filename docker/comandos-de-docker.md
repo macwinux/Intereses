@@ -7,6 +7,6 @@ description: spreadsheet
 ```
 docker run
 docker images
-docker ps (muestra comandos arrancados)
-docker ps -a (arrancados y parados)
+docker ps (muestra containers arrancados)
+docker ps -a (muestra containers arrancados y parados)
 ```
