@@ -14,4 +14,5 @@ docker start -i (arrancar un contenedor de manera interactiva)
 docker stop
 docker rmi (image id)
 docker rm (container id)
+docker exec (container name) uname -a (ejemplo de comando)
 ```
