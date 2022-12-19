@@ -15,4 +15,5 @@ docker stop
 docker rmi (image id)
 docker rm (container id)
 docker exec (container name) uname -a (ejemplo de comando)
+docker exec -it (container name) bash
 ```
