@@ -12,4 +12,6 @@ docker ps (muestra containers arrancados)
 docker ps -a (muestra containers arrancados y parados)
 docker start -i (arrancar un contenedor de manera interactiva) 
 docker stop
+docker rmi (image id)
+docker rm (container id)
 ```
